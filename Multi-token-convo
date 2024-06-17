@@ -1,0 +1,2 @@
+import multitool
+multitool.main()
